@@ -18,9 +18,9 @@
   * [1.13. What consensus algorithm does Arcology use?](./tech.md#113-what-consensus-algorithm-does-arcology-use)
   * [1.14. What is the Multifactor PoS?](./tech.md#114-what-is-the-multifactor-pos)
   
-* [2. Developers](./tech.md/#2-developers)
-  * [2.1. How do developers build on Arcology?](./tech.md#21-how-do-developers-build-on-arcology)
-  * [2.2. What are concurrent smart contracts?](./tech.md#22-what-are-concurrent-smart-contracts)
-  * [2.3. Why do we need concurrent smart contracts in the first place?](./tech.md#23-why-do-we-need-concurrent-smart-contracts-in-the-first-place)
-  * [2.4. How can we write concurrent contracts?](./tech.md#24-how-can-we-write-concurrent-contracts)
+* [2. Developers](./developer.md#2-developers)
+  * [2.1. How do developers build on Arcology?](./developer.md#21-how-do-developers-build-on-arcology)
+  * [2.2. What are concurrent smart contracts?](./developer.md#22-what-are-concurrent-smart-contracts)
+  * [2.3. Why do we need concurrent smart contracts in the first place?](./developer.md#23-why-do-we-need-concurrent-smart-contracts-in-the-first-place)
+  * [2.4. How can we write concurrent contracts?](./developer.md#24-how-can-we-write-concurrent-contracts)
 
