@@ -1,1 +1,1 @@
-# tech-faq
+# FAQ Document
