@@ -2,7 +2,7 @@
 
 * [**Arcology FAQ**](./) 
   
-* [1. General](./tech.md/#1-general)
+* [1. General](./tech.md#1-general)
   * [1.1. How does Arcology solve the scalability issue?](./tech.md#11-how-does-arcology-solve-the-scalability-issue)
   * [1.2. What are major advantages of Arcology?](./tech.md#12-what-are-major-advantages-of-arcology)
   * [1.3. Is Arcology EVM compatible?](./tech.md#13-is-arcology-evm-compatible)
